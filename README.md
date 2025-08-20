@@ -36,9 +36,8 @@ It is an experimental open-source attempt to design a customizable, software-dri
 (Instructions will be added as the project evolves.)
 
 ```
-git clone https://github.com/your-username/rc505-rpi4.git
-cd rc505-rpi4
-# setup steps to be defined
+git clone https://github.com/HaneiNeko/Loop-Station-rpi.git
+cd LoopStation
 ```
 
 # 🗺️ Roadmap
