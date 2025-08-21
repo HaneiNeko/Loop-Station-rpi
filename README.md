@@ -25,11 +25,11 @@ It is an experimental open-source attempt to design a customizable, software-dri
 
 - 🐧 Raspberry Pi OS (64-bit recommended)
 
-- 🐍 Python 3.x
+- 🐍 Python 3.10 or more
 
 - 🎵 JACK / ALSA for low-latency audio
 
-- 📦 Required libraries (to be detailed later)
+- 📦 ```playsound``` and ```python-sounddevice```
 
 ## 🚀 Installation
 
@@ -37,7 +37,9 @@ It is an experimental open-source attempt to design a customizable, software-dri
 
 ```
 git clone https://github.com/HaneiNeko/Loop-Station-rpi.git
-cd LoopStation
+cd Loop-Station-rpi/
+chmod +x ./launcher.sh
+./launcher.sh
 ```
 
 # 🗺️ Roadmap
